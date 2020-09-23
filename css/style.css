@@ -81,9 +81,63 @@ input.name::-webkit-input-placeholder{
   text-align: center;
 }
 
-.nike{
+.ikon{
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.apple{
+  width: 10%;
+}
+
+.nike{
+  width: 25%;
+} 
+
+.samsung{
+  width:30%;
+}
+
+.evernote{
+  width: 25%;
+}
+
+.twitter{
+  width: 20%;
+}
+
+.soundcloud{
   width: 40%;
 }
+
+.time-block{
+  margin-top: 50px;
+  text-align: center;
+}
+
+.time{
+  color: orange;
+  font-size: 35px;
+}
+
+.time-2{
+  color: #777777;
+  font-size: 35px;
+}
+.last-line{
+  display:inline-flex;
+}
+
+.last-div{
+  margin-top: 40px;
+  position: relative;
+  vertical-align: middle;
+  text-align: center;
+  
+}
+
+li{
+ padding: 10px; 
+}
+
